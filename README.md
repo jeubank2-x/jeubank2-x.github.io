@@ -3,10 +3,10 @@
 #### Technical Skills: Python, R, Excel, SAS, SQL
 
 ## Education							       		
-- B.S., Computational Mathematics	| Liberty University (_August 2025_)	 			        		
+- B.S., Computational Mathematics	| Liberty University (_Aug 2025_)	 			        		
 
 ## Work Experience
-**Payment Analyst @ University of North Carolina Chapel Hill (_May 2024 - Present_)**
+**Payment Analyst @ University of North Carolina Chapel Hill (_May 2024 - _)**
 - Analyze and investigate payment and account data trends by resolving discrepancies to enhace cash flow. 
 - Create and maintain error resolution workflows that improved data accuracy and reduced processing delays
 
