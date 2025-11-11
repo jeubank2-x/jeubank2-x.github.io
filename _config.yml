@@ -2,7 +2,5 @@ title: Jason Eubank
 logo: /assets/img/Eubank, Jason_Patient Accounts.jpg
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-merlot
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme 
+theme: jekyll-theme-minimal
+
