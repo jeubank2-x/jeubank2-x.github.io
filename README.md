@@ -15,7 +15,7 @@
 ## Projects
 ---
 **Analyzing the Influence of NBA Scheduling**
-How rest days, travel, and game density impact team performance
+
 ---
 
 ### Overview
@@ -36,11 +36,11 @@ Teams consistently underperform when traveling across time zones on short rest. 
 
 ---
 **MLB Player Performance Prediction Model**
-Forecasting individual player outcomes using historical matchup data
+
 ---
 
 ### Overview
-This project builds a predictive model to estimate the likelihood of a player recording a hit or home run in a given matchup. The model uses historical player performance, opposing pitcher tendencies, stadium effects, and situational factors.
+This project builds a predictive model to estimate the likelihood of a player recording a hit or home run in a given matchup. The model uses historical player performance, opposing pitcher tendencies, stadium effects, and situational factors to predict outcomes. The model can be adjusted and used for other player data. 
 
 ### Key Skills Demonstrated
 - Data Wrangling 
