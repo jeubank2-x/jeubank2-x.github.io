@@ -6,7 +6,7 @@
 - B.S., Computational Mathematics	| Liberty University (_Aug 2025_)	 			        		
 
 ## Work Experience
-**Payment Analyst @ University of North Carolina Chapel Hill (_May 2024 - _)**
+**Payment Analyst @ University of North Carolina Chapel Hill (_May 2024-_)**
 - Analyze and investigate payment and account data trends by resolving discrepancies to enhace cash flow. 
 - Create and maintain error resolution workflows that improved data accuracy and reduced processing delays
 
