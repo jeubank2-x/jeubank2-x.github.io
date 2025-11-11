@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, Excel, SAS, SQL
 
 ## Education							       		
-- B.S. Computational Mathematics	|   Liberty University (_Aug 2025_)	 			        		
+**B.S. Computational Mathematics	|   Liberty University (_Aug 2025_)** 			        		
 
 ## Work Experience
 **Payment Analyst @ University of North Carolina Chapel Hill (_May 2024_)**
