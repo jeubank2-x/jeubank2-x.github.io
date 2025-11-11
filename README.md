@@ -12,10 +12,26 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
+layout: project
+title: "Analyzing the Influence of NBA Scheduling"
+subtitle: "How rest days, travel, and game density impact team performance"
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+### Overview
+This project explores how NBA schedule structure affects team performance. I analyzed how factors such as back-to-back games, travel distance, and rest day patterns correlate with win probability and player output.
+
+### Key Skills Demonstrated
+- Data cleaning and feature engineering
+- Exploratory data analysis
+- Statistical correlation and visualization
+- Presentation of actionable insights
+
+### Tools Used
+Python, Pandas, Matplotlib, Jupyter Notebook
+
+### Results
+Teams consistently underperform when traveling across time zones on short rest. The effects were most noticeable in the second game of back-to-backs.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
