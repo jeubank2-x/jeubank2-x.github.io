@@ -13,9 +13,8 @@
 
 ## Projects
 ---
-layout: project
-title: "Analyzing the Influence of NBA Scheduling"
-subtitle: "How rest days, travel, and game density impact team performance"
+Analyzing the Influence of NBA Scheduling
+"How rest days, travel, and game density impact team performance"
 ---
 
 ### Overview
@@ -28,7 +27,7 @@ This project explores how NBA schedule structure affects team performance. I ana
 - Presentation of actionable insights
 
 ### Tools Used
-Python, Pandas, Matplotlib, Jupyter Notebook
+RStudio, Tidyr, DPLYR, GGPlot2
 
 ### Results
 Teams consistently underperform when traveling across time zones on short rest. The effects were most noticeable in the second game of back-to-backs.
