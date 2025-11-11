@@ -55,6 +55,4 @@ The model provides probability estimates that can be used in player development,
 
 
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
 
