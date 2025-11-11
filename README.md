@@ -18,10 +18,10 @@ Analyzing the Influence of NBA Scheduling
 ---
 
 ### Overview
-This project explores how NBA schedule structure affects team performance. I analyzed how factors such as back-to-back games, travel distance, and rest day patterns correlate with win probability and player output.
+This project explores how NBA schedule structure affects team performance. I analyzed how factors such as back-to-back games, travel distance, and rest day patterns correlate with win probability and player output. Designed and implemented an interactive scheduling and visualization tool to optimize event planning. 
 
 ### Key Skills Demonstrated
-- Data cleaning and feature engineering
+- Data cleaning 
 - Exploratory data analysis
 - Statistical correlation and visualization
 - Presentation of actionable insights
