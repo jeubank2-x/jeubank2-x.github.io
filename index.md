@@ -17,7 +17,7 @@ I specialize in data wrangling, visualization, and predictive modeling with a gr
 
 ## Education
 **B.S. Computational Mathematics** 
-Liberty University — _Expected Aug 2025_
+Liberty University — _Aug 2025_
 
 ---
 
