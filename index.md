@@ -5,7 +5,7 @@ layout: resume
 _Data Analyst_
 
 I transform data into clear, actionable insights. 
-I specialize in data wrangling, visualization, and predictive modeling — with a growing focus on sports and financial analytics.
+I specialize in data wrangling, visualization, and predictive modeling with a growing focus on sports and financial analytics.
 
 ---
 
@@ -54,4 +54,4 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 ## Contact
 Chapel Hill, NC 
 [Email Me](mailto: jjeubank2@icloud.com) 
-[GitHub](https://github.com/jeubank2-x
+[GitHub](https://github.com/jeubank2-x)
