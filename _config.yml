@@ -1,6 +1,6 @@
 title: Jason Eubank
 description: Portfolio
-logo: /assets/img/photo.jpg
+image: assets/img/photo.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-slate
