@@ -1,5 +1,7 @@
 title: Jason Eubank 
+description: Data Analyst Portfolio
 logo: /assets/img/photo.jpg
 #description: text below image
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: architect
+author: Jason Eubank
