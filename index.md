@@ -1,11 +1,14 @@
 ---
-layout: resume
+title: Jason Eubank
+description: Data Analyst Portfolio
 ---
-# Jason Eubank
-_Data Analyst_
 
-I transform data into clear, actionable insights. 
-I specialize in data wrangling, visualization, and predictive modeling with a growing focus on sports and financial analytics.
+<div style="text-align:center;">
+  <img src="assets/img/profile.jpg" alt="Jason Eubank" style="width:150px; border-radius:50%; margin-bottom:10px;">
+  <h1>Jason Eubank</h1>
+  <h3>Data Analyst</h3>
+  <p>I transform data into clear, actionable insights, specializing in data wrangling, visualization, and predictive modeling with a growing focus on sports and financial analytics.</p>
+</div>
 
 ---
 
