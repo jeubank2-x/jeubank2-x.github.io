@@ -38,7 +38,7 @@ Examines back-to-back games, travel distance, and rest day patterns to identify 
 **Key Skills:** Data Wrangling, Feature Engineering, Statistical Modeling 
 **Tools:** RStudio, Dplyr, Tidyr, Purrr, Stats, GGPlot2 
 **Results:** Teams underperform when traveling across time zones on short rest, especially on the second night of back-to-backs.
-[View Here](assets/projects/scheduling_project.html)
+**[View Project](assets/projects/scheduling_project.html)**
 ---
 
 ### MLB Player Performance Prediction Model
