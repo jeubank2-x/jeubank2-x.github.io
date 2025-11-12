@@ -54,6 +54,7 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 ---
 
 ## Contact
+412-607-8222
 Chapel Hill, NC 
 [Email Me](mailto: jjeubank2@icloud.com) 
 [GitHub](https://github.com/jeubank2-x)
