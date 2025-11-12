@@ -48,7 +48,7 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 **Key Skills:** Data Wrangling, Predictive Modeling, Model Evaluation 
 **Tools:** RStudio, Dplyr, Tidyr, Stats 
 **Results:** Provides probability estimates useful for scouting, lineup optimization, and performance forecasting. 
-[View Here](http://assets/projects/MLB Player Performance Prediction Model.pdf)
+[View Here](http://assets/projects/mlb_project.pdf)
 ---
 
 ## Contact
