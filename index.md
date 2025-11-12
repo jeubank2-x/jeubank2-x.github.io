@@ -38,7 +38,7 @@ Examines back-to-back games, travel distance, and rest day patterns to identify 
 **Key Skills:** Data Wrangling, Feature Engineering, Statistical Modeling 
 **Tools:** RStudio, Dplyr, Tidyr, Purrr, Stats, GGPlot2 
 **Results:** Teams underperform when traveling across time zones on short rest, especially on the second night of back-to-backs.
-[View Here](assets/projects/scheduling_project.html)
+[View Here]
 ---
 
 ### MLB Player Performance Prediction Model
@@ -48,7 +48,7 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 **Key Skills:** Data Wrangling, Predictive Modeling, Model Evaluation 
 **Tools:** RStudio, Dplyr, Tidyr, Stats 
 **Results:** Provides probability estimates useful for scouting, lineup optimization, and performance forecasting. 
-[View Here](assets/projects/mlb_project.pdf)
+[View Here]
 ---
 
 ## Contact
