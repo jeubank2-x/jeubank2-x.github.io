@@ -1,9 +1,5 @@
-title: Jason Eubank
+title: Jason Eubank 
 logo: /assets/img/Eubank, Jason_Patient Accounts.jpg
-description: Data Analyst 
-show_downloads: false
-theme: null
-remote_theme: sproogen/modern-resume-theme
-
-plugins:
- - jekyll-remote-theme
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
