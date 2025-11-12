@@ -2,6 +2,9 @@
 title: Jason Eubank
 description: Data Analyst Portfolio
 ---
+<div style="text-align:center; margin-bottom:20px;">
+  <img src="assets/img/photo.jpg" alt="Jason Eubank" style="width:150px; border-radius:50%;">
+</div>
 
 <div style="text-align:center;">
   <h3>Data Analyst</h3>
