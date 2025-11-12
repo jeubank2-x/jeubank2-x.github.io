@@ -4,7 +4,6 @@ description: Data Analyst Portfolio
 ---
 
 <div style="text-align:center;">
-  <h1>Jason Eubank</h1>
   <h3>Data Analyst</h3>
   <p>I transform data into clear, actionable insights, specializing in data wrangling, visualization, and predictive modeling with a growing focus on sports and financial analytics.</p>
 </div>
