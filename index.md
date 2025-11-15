@@ -52,7 +52,7 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 **Key Skills:** Data Wrangling, Predictive Modeling, Model Evaluation 
 **Tools:** RStudio, Dplyr, Tidyr, Stats 
 **Results:** Provides probability estimates useful for scouting, lineup optimization, and performance forecasting. 
-**[View Project](assets/projects/mlb_project.pdf)**
+**[View Project](https://jeubank2-x.github.io/mlb-model/))**
 ---
 
 ## Contact
