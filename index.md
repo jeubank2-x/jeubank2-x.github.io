@@ -54,6 +54,12 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 **Results:** Provides probability estimates useful for scouting, lineup optimization, and performance forecasting. 
 **[View Project](https://jeubank2-x.github.io/mlb-model/)**
 ---
+### Global Warming Analysis
+Analyzes the relationship between CO₂ emissions and global temperature changes from 1880 to 2010. Builds a linear regression model and uses ANOVA to test the significance of emissions on temperature, including diagnostic plots to validate model assumptions.
+
+**Key Skills:** Data Wrangling, Statistical Modeling, Model Evaluation
+**Tools:** RStudio, Tidyverse, ggplot2, ANOVA
+**Results:** Strong positive correlation between CO₂ emissions and temperature change, with statistically significant results supporting the effect of emissions on global warming trends.
 **[View Project](https://jeubank2-x.github.io/Global-Warming-Analysis/)**
 ---
 ## Contact
