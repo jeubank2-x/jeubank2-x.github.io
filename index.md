@@ -54,7 +54,8 @@ The model integrates historical performance, opposing pitcher data, stadium effe
 **Results:** Provides probability estimates useful for scouting, lineup optimization, and performance forecasting. 
 **[View Project](https://jeubank2-x.github.io/mlb-model/)**
 ---
-
+**[View Project](https://jeubank2-x.github.io/Global-Warming-Analysis/)**
+---
 ## Contact
 **412-607-8222**
 **Chapel Hill, NC** 
