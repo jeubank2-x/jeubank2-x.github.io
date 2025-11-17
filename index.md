@@ -60,7 +60,8 @@ Analyzes the relationship between CO₂ emissions and global temperature changes
 **Key Skills:** Data Wrangling, Statistical Modeling, Model Evaluation
 **Tools:** RStudio, Tidyverse, ggplot2, ANOVA
 **Results:** Strong positive correlation between CO₂ emissions and temperature change, with statistically significant results supporting the effect of emissions on global warming trends.
-**[View Project](https://jeubank2-x.github.io/Global-Warming-Analysis/)**
+**[View Code](https://jeubank2-x.github.io/Global-Warming-Analysis/)**
+**[View Presentation](Global Warming Analysis.pptx)**
 ---
 ## Contact
 **412-607-8222**
