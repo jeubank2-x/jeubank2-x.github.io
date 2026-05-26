@@ -35,6 +35,17 @@ _May 2024 – Present_
 
 ## Projects
 
+### NC State Basketball Recruiting Tool 
+Builds a data-driven transfer portal recruiting board for NC State Basketball by evaluating player fit across positional needs, defensive impact, offensive production, and roster construction.
+Developed a weighted scoring model to rank transfer portal targets and generate an interactive HTML dashboard for coaching staff analysis.
+
+**Key Skills:** Data Wrangling, Feature Engineering, Predictive Scoring Models, Data Visualization
+**Tools:** Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, HTML/CSS
+**Results:** Created a custom fit-score system that identified top transfer portal targets based on NC State’s roster priorities, defensive scheme compatibility, and positional depth needs while automating a full recruiting dashboard for player evaluation.
+**[View NC State Recruiting Board](https://htmlpreview.github.io/?https://github.com/jeubank2-x/NCState_TransferPortalProject/blob/main/data/outputs/NC_State_Recruiting_Board.html)**
+
+---
+
 ### Analyzing the Influence of NBA Scheduling
 Explores how NBA schedule structure affects team performance. 
 Examines back-to-back games, travel distance, and rest day patterns to identify correlations with win probability and player output.
